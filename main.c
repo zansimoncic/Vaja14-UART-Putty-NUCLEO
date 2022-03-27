@@ -55,7 +55,7 @@ static void MX_USART2_UART_Init(void);
 
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
-uint8_t myTxData[11]= "Zan Anel\r\n";
+uint8_t myTxData[11]= "Anel Zan\r\n";
 
 /* USER CODE END 0 */
 
