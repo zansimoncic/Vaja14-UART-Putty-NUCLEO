@@ -1,7 +1,7 @@
 # Vaja14-UART-Putty-NUCLEO
 
 
-c)  Privzeto je UART2 vmesnik povezan na USB priključek razvojne ploščice. Katere dva mostička bi morali odspajkati in kateri dve povezavi pospajkati, da bi lahko uporabili pina Tx/D1 in Rx/D0? SB13 in SB14, SB62 in SB63.
+c)  Privzeto je UART2 vmesnik povezan na USB priključek razvojne ploščice. Katere dva mostička bi morali odspajkati in kateri dve povezavi pospajkati, da bi lahko uporabili pina Tx/D1 in Rx/D0? SB62 in SB63, SB13 in SB14.
 
 e)  V področju Connectivity aktivirajte protokol USART2 kot asinhroni. Katera dva pina sta se pobarvala zeleno oz. se aktivirala? PA2 in PA3.
 
