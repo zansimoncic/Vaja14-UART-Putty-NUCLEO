@@ -11,6 +11,6 @@ d)  Za to funkcijo zapišite ukaz za vklop/izklop zelene LED (pomagajte si z met
 
 e)  Dodajte še ukaz za zakasnitev s funkcijo Delay iz knjižnice HAL, in sicer 2 sekunde  (glej vaja0a): HAL_Delay(1000).
 
-Program sva dopolnila tako, da sva dodala HAL_Delay(100); v USER CODE BEGIN 3, ki nama je omogočilo izpis imen z vsakim pritiskom na tipko USER.
+Program sva dopolnila tako, da sva dodala HAL_Delay(100); v USER CODE BEGIN 3, kar nama je omogočilo izpis imen z vsakim pritiskom na tipko USER.
 
 Komentar: Na začetku sva imela težave pri sami izbiri COM priključka, saj računalnik ni zaznal pravega. Ko sva tega zamenjala je naloga delovala brez težav.
